@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="ui_mm_originals">
-		<text>Оригинальная трилогия</text>
+		<text>РћСЂРёРіРёРЅР°Р»СЊРЅР°СЏ С‚СЂРёР»РѕРіРёСЏ</text>
 	</string>
 		<string id="ui_mm_disclaimer">
-		<text>S.T.A.L.K.E.R. G.A.M.M.A. — фанатская модификация, объединяющая в себе наработки основных моддеров, была создана на лейбле GSC Game World игры S.T.A.L.K.E.R.</text>
+		<text>S.T.A.L.K.E.R. G.A.M.M.A. вЂ” С„Р°РЅР°С‚СЃРєР°СЏ РјРѕРґРёС„РёРєР°С†РёСЏ, РѕР±СЉРµРґРёРЅСЏСЋС‰Р°СЏ РІ СЃРµР±Рµ РЅР°СЂР°Р±РѕС‚РєРё РѕСЃРЅРѕРІРЅС‹С… РјРѕРґРґРµСЂРѕРІ, Р±С‹Р»Р° СЃРѕР·РґР°РЅР° РЅР° Р»РµР№Р±Р»Рµ GSC Game World РёРіСЂС‹ S.T.A.L.K.E.R.</text>
 	</string>
 	<string id="ui_st_game_version">
 		<text>S.T.A.L.K.E.R. G.A.M.M.A. 0.9.4</text>
